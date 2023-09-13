@@ -1,2 +1,13 @@
+#1
+print(" Hello Enter your  name: ")
 
-print("Hello Maya")
+#2
+print(" Hello Enter your adress: ")
+
+
+
+"""
+name = "Maya" 
+address = "Rehovot, Israel"
+print(" Hello " , name ,"from", address ," How are you: " )
+"""
